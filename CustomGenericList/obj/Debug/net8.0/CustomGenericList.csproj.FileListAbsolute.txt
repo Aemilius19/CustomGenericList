@@ -1,0 +1,15 @@
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\bin\Debug\net8.0\CustomGenericList.exe
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\bin\Debug\net8.0\CustomGenericList.deps.json
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\bin\Debug\net8.0\CustomGenericList.runtimeconfig.json
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\bin\Debug\net8.0\CustomGenericList.dll
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\bin\Debug\net8.0\CustomGenericList.pdb
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\obj\Debug\net8.0\CustomGenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\obj\Debug\net8.0\CustomGenericList.AssemblyInfoInputs.cache
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\obj\Debug\net8.0\CustomGenericList.AssemblyInfo.cs
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\obj\Debug\net8.0\CustomGenericList.csproj.CoreCompileInputs.cache
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\obj\Debug\net8.0\CustomGenericList.sourcelink.json
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\obj\Debug\net8.0\CustomGenericList.dll
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\obj\Debug\net8.0\refint\CustomGenericList.dll
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\obj\Debug\net8.0\CustomGenericList.pdb
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\obj\Debug\net8.0\CustomGenericList.genruntimeconfig.cache
+C:\Users\shiimerryPC\Desktop\Task's\CustomGenericList\obj\Debug\net8.0\ref\CustomGenericList.dll

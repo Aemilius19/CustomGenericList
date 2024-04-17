@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\CustomGenericList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F60E711-122D-4E2D-BB81-8BBA85068D42}|CustomGenericList.csproj|c:\\users\\shiimerrypc\\desktop\\task\u0027s\\customgenericlist\\models\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F60E711-122D-4E2D-BB81-8BBA85068D42}|CustomGenericList.csproj|solutionrelative:models\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F60E711-122D-4E2D-BB81-8BBA85068D42}|CustomGenericList.csproj|c:\\users\\shiimerrypc\\desktop\\task\u0027s\\customgenericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F60E711-122D-4E2D-BB81-8BBA85068D42}|CustomGenericList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\CustomGenericList\\Models\\CustomList.cs",
+              "RelativeDocumentMoniker": "Models\\CustomList.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\CustomGenericList\\Models\\CustomList.cs",
+              "RelativeToolTip": "Models\\CustomList.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwE8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:56:33.018Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\CustomGenericList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shiimerryPC\\Desktop\\Task\u0027s\\CustomGenericList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:50:49.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
