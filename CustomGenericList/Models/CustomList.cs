@@ -69,6 +69,7 @@ namespace CustomGenericList.Models
                     deletedlist[count] = list[i];
                     count++;
                 }
+                Array.Resize(ref deletedlist, deletedlist.Lenght + 1);
             }
             return deletedlist;
             
