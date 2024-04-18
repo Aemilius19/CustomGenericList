@@ -61,20 +61,17 @@ namespace CustomGenericList.Models
         public static t[] Remove(t item,Predicate<t> method)
         {
             t[] deletedlist=new t[0];
-            foreach (t items in list)
+            int count = 0;
+            for (int i = 0; i < list.Lenght; i++)
             {
                 if (!method(items))
                 {
-                    Array.Resize(ref deletedlist, deletedlist.Length+1);
-                    deletedlist[^1]=items;
+                    deletedlist[count] = list[i];
+                    count++;
                 }
-                else if (method(items))
-                {
-                    break;
-                }
-
             }
             return deletedlist;
+            
         }
 
         public static t[] RemoveAll(t index,Predicate<t> method) 
